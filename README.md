@@ -12,7 +12,7 @@ I'm a rising sophomore at the University of Massachusetts Amherst, pursuing Comp
 - 🔧 &nbsp; Git | Markdown | Selenium
 
 <h3> 💁🏻‍♂️ Current Undertakings</h3>
-
+<center>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AVS1508&repo=AVS1508.github.io)](https://github.com/AVS1508/AVS1508.github.io)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AVS1508&repo=Summer-2020-Project)](https://github.com/AVS1508/Summer-2020-Project)
@@ -20,6 +20,8 @@ I'm a rising sophomore at the University of Massachusetts Amherst, pursuing Comp
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AVS1508&repo=Parinaam-CBSE-Results-Scraper)](https://github.com/AVS1508/Parinaam-CBSE-Results-Scraper)
 
 [![AVS1508's GitHub stats](https://github-readme-stats.vercel.app/api?username=AVS1508&show_icons=true)](https://github.com/AVS1508)
+
+</center>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
