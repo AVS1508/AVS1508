@@ -6,10 +6,10 @@ I'm a rising sophomore at the University of Massachusetts Amherst, pursuing Comp
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 Python | Java | C++
-- 🌐 HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 MySQL | MongoDB
-- 🔧 Git | Markdown | Selenium
+- 💻 &nbsp; Python | Java | C++
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git | Markdown | Selenium
 
 <h3> 💁🏻‍♂️ Current Undertakings</h3>
 
