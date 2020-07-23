@@ -13,6 +13,7 @@ I'm a rising sophomore at the University of Massachusetts Amherst, pursuing Comp
 
 <h3> 💁🏻‍♂️ Current Undertakings</h3>
 <center>
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AVS1508&repo=AVS1508.github.io)](https://github.com/AVS1508/AVS1508.github.io)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AVS1508&repo=Summer-2020-Project)](https://github.com/AVS1508/Summer-2020-Project)
