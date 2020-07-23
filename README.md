@@ -2,27 +2,23 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-I'm a rising sophomore at the University of Massachusetts Amherst, pursuing Computer Science with intent to double major in Mathematics. I enjoy exploring new and upcoming technologies, developing software solutions and quick hacks, and collaborating on interesting projects.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++
+- 💻 &nbsp; Python | Java | C++ | R (Statistics) | MATLAB
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium
+- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
-<h3> 💁🏻‍♂️ Current Undertakings</h3>
-<center>
+<br/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AVS1508&repo=AVS1508.github.io)](https://github.com/AVS1508/AVS1508.github.io)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AVS1508&repo=Summer-2020-Project)](https://github.com/AVS1508/Summer-2020-Project)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AVS1508&repo=Parinaam-CBSE-Results-Scraper)](https://github.com/AVS1508/Parinaam-CBSE-Results-Scraper)
-
-[![AVS1508's GitHub stats](https://github-readme-stats.vercel.app/api?username=AVS1508&show_icons=true)](https://github.com/AVS1508)
-
-</center>
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVS1508&show_icons=true)](https://github.com/AVS1508)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
