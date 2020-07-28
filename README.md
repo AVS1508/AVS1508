@@ -1,6 +1,8 @@
+<img src="./assets/Aditya Vikram Singh Banner.png">
+
 <h2> Hey there! I'm Aditya.</h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
@@ -8,7 +10,7 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
-<h3> 🛠 Tech Stack</h3>
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -47,7 +49,7 @@
 
 <br/>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
