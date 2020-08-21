@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg">
 
-<h2> 👋 Hey there! I'm Aditya.</h2>
+<h2> 👋 &nbsp;Hey there! I'm Aditya.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -45,7 +45,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&theme=vue&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
-
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
