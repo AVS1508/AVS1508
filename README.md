@@ -39,6 +39,8 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
+<h3> 🛠 &nbsp;GitHub Statistics</h3>
+
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
