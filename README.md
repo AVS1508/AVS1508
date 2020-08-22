@@ -4,7 +4,13 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-💡 &nbsp;Exploring new technologies and developing software solutions and quick hacks.<br/> 🎓 &nbsp;Studying Computer Science and Mathematics at the University of Massachusetts Amherst.<br/> 🌱 &nbsp;Learning more about Artificial Intelligence, Systems Design and Cloud Architecture.<br/> ✍️ &nbsp;Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+💡 &nbsp;Exploring new technologies and developing software solutions.<br/>
+🎓 &nbsp;Studying Computer Science at the University of Massachusetts Amherst.<br/>
+🌱 &nbsp;Learning more about Artificial Intelligence and Systems Design.<br/>
+✍️ &nbsp;Pursuing Graphic Design and Blog Writing as hobbies/side hustles.<br/>
+💬 &nbsp;Reach out to me for pro bono consulting, volunteering, and mentoring.<br/>
+✉️ &nbsp;Shoot me an email at avsingh@umass.edu!<br/>
+📄 &nbsp;Have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details!
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 
