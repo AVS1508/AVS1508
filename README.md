@@ -16,7 +16,7 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=darcula&include_all_commits=true&count_private=true&bg_color=30,5863F8,313B72&title_color=fff&text_color=fff&icon_color=fff" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=darcula&include_all_commits=true&count_private=true&bg_color=30,5863F8,313B72&title_color=fff&text_color=fff&icon_color=fff" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&exclude_lang=java+r&bg_color=30,5863F8,313B72&title_color=fff&text_color=fff" />
 </a>
 </p>
