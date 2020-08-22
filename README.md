@@ -4,12 +4,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💡 &nbsp;Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp;Studying Computer Science and Mathematics at the University of Massachusetts Amherst.
-- 🌱 &nbsp;Learning more about Artificial Intelligence, Systems Design and Cloud Architecture.
-- ✍️ &nbsp;Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+💡 &nbsp;Exploring new technologies and developing software solutions and quick hacks.
+🎓 &nbsp;Studying Computer Science and Mathematics at the University of Massachusetts Amherst.<br/> 🌱 &nbsp;Learning more about Artificial Intelligence, Systems Design and Cloud Architecture.<br/> ✍️ &nbsp;Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
-<img align="right" style="width:30vw;border-radius:10px;" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" w alt="GIF" src="./assets/Night-Coding.gif" />
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
